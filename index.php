@@ -1,3 +1,0 @@
-<?PHP
-hello world
-?>
